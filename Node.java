@@ -2,7 +2,7 @@
  * Joyce Cheung
  * ICSI 213
  * Dr. Magnus
- * Assignment 3.2
+ * Assignment 4.1
  **/
 
 public class Node {
